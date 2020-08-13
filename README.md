@@ -106,6 +106,7 @@ if(receive_header(broker_fd, buffer_header) > 0) {
 ## Build
 Build la biblioteca:
 ```bash
-cd commLib
-sudo ./build_biblioteca.sh 
+sudo ./build_librerias.sh
+
+Despue dirirgirte a cada modulo y ejecutar su propio script 
 ```
