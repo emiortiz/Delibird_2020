@@ -11,13 +11,13 @@
  - [Buildear](buildear) 
 
 ## Introduccion al TP
-El TP consiste en la simulacion de distintas funciones del sistema operativo. A travez de procesos que ejecutan tareas con pokemons y pueden funcionar gracias a una cola de mensajes que permite comunicarse a todos los procesos, con la persistencia. 
+El TP consiste en la simulacion de distintas funciones del sistema operativo, a travez de procesos que ejecutan tareas con pokemons y pueden funcionar gracias a una cola de mensajes que permite comunicarse a todos los procesos, con la persistencia. 
 
 ## Procesos
- -Gameboy
- -Team
- -Broker
- -Gamecard
+ - Gameboy
+ - Team
+ - Broker
+ - Gamecard
  
 
 ## Comunicacion con el Broker
