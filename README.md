@@ -108,5 +108,5 @@ Build la biblioteca:
 ```bash
 sudo ./build_librerias.sh
 
-Despue dirirgirte a cada modulo y ejecutar su propio script 
+//Despue dirirgirte a cada modulo y ejecutar su propio script 
 ```
