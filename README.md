@@ -2,12 +2,23 @@
 # tp-2020-1c-Recursantes-3.0
 ![entrega-final](https://imgur.com/HWoy6Iv.jpg)
 ## Indice
+- [Introduccion al TP] (#Introduccion-al-TP)
+- [Procesos] (#Procesos)
 - [Comunicacion con el Broker](#comunicacion-con-el-broker)
   -  [Suscribirse a una cola](#suscribirse-a-una-cola)
   - [Mandar un mensaje](#mandar-un-mensaje)
   - [Recibir un mensaje](#recibir-un-mensaje)
  - [Buildear](buildear) 
 
+## Introduccion al TP
+El TP consiste en la simulacion de distintas funciones del sistema operativo. A travez de procesos que ejecutan tareas con pokemons y pueden funcionar gracias a una cola de mensajes que permite comunicarse a todos los procesos, con la persistencia. 
+
+## Procesos
+ -Gameboy
+ -Team
+ -Broker
+ -Gamecard
+ 
 
 ## Comunicacion con el Broker
 
