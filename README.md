@@ -3,7 +3,8 @@
 ![entrega-final](https://imgur.com/HWoy6Iv.jpg)
 
 ## Link Enunciado
-https://drive.google.com/file/d/1Ho1sl2fIMt4RD70Aly2U1_-rQea7lWuC/view?usp=sharing
+<a href="https://drive.google.com/file/d/1Ho1sl2fIMt4RD70Aly2U1_-rQea7lWuC/view?usp=sharing" target="_blank">Enunciado</a>
+
 
 ## Indice
 - [Introduccion al TP](#Introduccion-al-TP)
