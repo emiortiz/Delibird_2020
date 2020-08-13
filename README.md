@@ -3,7 +3,7 @@
 ![entrega-final](https://imgur.com/HWoy6Iv.jpg)
 
 ## Link Enunciado
-<a href="https://drive.google.com/file/d/1Ho1sl2fIMt4RD70Aly2U1_-rQea7lWuC/view?usp=sharing" target="_blank">Enunciado</a>
+<a href="https://drive.google.com/file/d/1Ho1sl2fIMt4RD70Aly2U1_-rQea7lWuC/view?usp=sharing" target="_blank">Click aqui</a>
 
 
 ## Indice
