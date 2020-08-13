@@ -2,8 +2,8 @@
 # tp-2020-1c-Recursantes-3.0
 ![entrega-final](https://imgur.com/HWoy6Iv.jpg)
 ## Indice
-- [Introduccion al TP] (#Introduccion-al-TP)
-- [Procesos] (#Procesos)
+- [Introduccion al TP](#Introduccion-al-TP)
+- [Procesos](#Procesos)
 - [Comunicacion con el Broker](#comunicacion-con-el-broker)
   -  [Suscribirse a una cola](#suscribirse-a-una-cola)
   - [Mandar un mensaje](#mandar-un-mensaje)
